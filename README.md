@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Soham%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,25:92FE9D,50:F9F871,75:FF9671,100:FF6F91&text=Soham%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Soham Yadav</h1>
@@ -9,7 +9,13 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Applications;AI+%26+Cloud+Computing+Learner;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Applications;AI+%26+Cloud+Computing+Learner;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 ---
@@ -25,31 +31,32 @@
 
 ---
 
+## 💼 Featured Projects
+
+### 🛒 NexCart – E-Commerce Platform
+- Full Stack MERN Application
+- Secure Authentication & Authorization
+- Product & Order Management
+- Modern Responsive UI
+
+### 🎙️ YudhiNova – Desktop Voice Assistant
+- AI Powered Voice Assistant
+- Voice Command Execution
+- Task Automation
+- Smart User Interaction
+
+### 🌍 WorldAtlas
+- Country Information Explorer
+- REST API Integration
+- Interactive Search & Filters
+- Responsive Design
+
+---
+
 ## 🛠️ Tech Stack
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,javascript" />
-</p>
-
-### DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,java,cpp,git,github,docker,linux,vscode,postman" />
 </p>
 
 ---
@@ -71,14 +78,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -87,31 +86,11 @@
 
 ---
 
-## 💼 Featured Projects
+## 🏆 GitHub Trophies
 
-### 🛒 NexCart – E-Commerce Platform
-
-- Full Stack MERN Application
-- User Authentication & Authorization
-- Product Management System
-- Shopping Cart & Order Features
-- Responsive Modern UI
-
-### 🎙️ YudhiNova – Desktop Voice Assistant
-
-- AI-Powered Desktop Assistant
-- Voice Command Execution
-- Task Automation
-- Smart User Interaction
-- Productivity Enhancement
-
-### 🌍 WorldAtlas
-
-- Explore Countries Worldwide
-- REST API Integration
-- Country Statistics & Information
-- Responsive User Interface
-- Interactive Search Functionality
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
